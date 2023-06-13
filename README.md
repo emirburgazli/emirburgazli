@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Emir BURGAZLI
-=====================================================================================================================================
+Hi 👋 My name is Emir BURGAZLI
+==============================
 
 BackEnd Developer
 -----------------
@@ -48,3 +48,7 @@ Hello! I am a backend developer with over 3 years of experience in the field. Bu
 <br /><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/emirburgazli/spring-react-Frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=emirburgazli&repo=spring-react-Frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/emirburgazli/.NetCoreLastProject" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=emirburgazli&repo=.NetCoreLastProject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/e"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
