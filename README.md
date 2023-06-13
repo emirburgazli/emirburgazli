@@ -43,12 +43,6 @@ Hello! I am a backend developer with over 3 years of experience in the field. Bu
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/emirburgazli/Laravel_Ecommerce" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=emirburgazli&repo=Laravel_Ecommerce&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/emirburgazli/spring-react-Backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=emirburgazli&repo=spring-react-Backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/emirburgazli/Laravel_Ecommerce" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=emirburgazli&repo=Laravel_Ecommerce&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/emirburgazli/spring-react-Backend" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=emirburgazli&repo=spring-react-Backend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/emirburgazli/spring-react-Frontend" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=emirburgazli&repo=spring-react-Frontend&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/emirburgazli/.NetCoreLastProject" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=emirburgazli&repo=.NetCoreLastProject&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/e"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
