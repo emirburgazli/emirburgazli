@@ -9,8 +9,6 @@ Hello! I am a backend developer with over 3 years of experience in the field. Bu
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [Portfoy](http://burgazli.com)
 * ✉️  You can contact me at [emirhanburgazli@gmail.com](mailto:emirhanburgazli@gmail.com)
-* 🚀  I'm currently working on [Doktor Projesi](http://nazanuysalharzadin.com.tr)
-* 🤝  I'm open to collaborating on Fintech
 * ⚡  I love learning new things in the field of software development. There is always something exciting and innovative happening in this ever-evolving domain. From mastering new programming languages and frameworks to exploring cutting-edge technologies, the journey of learning never ends. As a software enthusiast, I find immense joy in diving deep into various programming paradigms and methodologies. The process of solving complex problems and building efficient, scalable, and robust applications is both challenging and rewarding. I believe that continuous learning is crucial in the software industry, given the rapid pace of technological advancements. By staying up-to-date with the latest trends and best practices, I strive to enhance my skills and broaden my horizons.
 
 ### Skills
